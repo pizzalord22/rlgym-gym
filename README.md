@@ -1,0 +1,1 @@
+rlgym-gym is a suite of test environments for rlgym.
